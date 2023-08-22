@@ -1,6 +1,6 @@
 # Xbox Controller
 
-- **Brand**: Microsoft
+- **Brand**: Sony
 - **Model**: Xbox Wireless Controller
 - **Connectivity**: Wireless
 - **Compatibility**: PC, Xbox One, Xbox Series X, Xbox Series S
