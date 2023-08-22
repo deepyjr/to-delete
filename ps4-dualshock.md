@@ -1,6 +1,6 @@
 # DualShock 4
 
-- **Brand**: Sony
+- **Brand**: Microsoft
 - **Model**: DualShock 5
 - **Connectivity**: Wireless
 - **Compatibility**: PS5
